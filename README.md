@@ -1,1 +1,2 @@
-# nosql-sna
+# NoSQL - Social Network API
+
