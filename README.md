@@ -39,7 +39,7 @@ Clone the repository and run the command `npm install` into your terminal. Then 
 
 ### Screenshots
 
-<img width="1440" alt="Screenshot 2022-12-08 at 04 42 42" src="https://user-images.githubusercontent.com/108250116/206358727-acf5d123-78ea-4c93-8540-14e0747e1e0d.png">
+<img width="1440" alt="Screenshot 2022-12-08 at 04 42 42" src="https://user-images.githubusercontent.com/108250116/206359389-881b791f-17a9-4e97-9f8e-131f6cab567d.png">
 
 <img width="1440" alt="Screenshot 2022-12-08 at 04 43 05" src="https://user-images.githubusercontent.com/108250116/206358747-b77a3fbd-23a4-41fb-8396-4f03822673c8.png">
 
