@@ -46,7 +46,7 @@ Clone the repository and run the command `npm install` into your terminal. Then 
 
 ### Links
 
-Walkthrough video: https://watch.screencastify.com/v/jiiqp9a2QSKTNDI4uYi6﻿
+Walkthrough video: https://watch.screencastify.com/v/XfuoZeTUHz2NM4JV6HEQ
 <br>
 GitHub Repo: https://github.com/RahmaBilal/nosql-sna
 
